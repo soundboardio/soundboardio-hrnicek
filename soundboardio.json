@@ -1,0 +1,552 @@
+{
+  "name": "Kluk s hrníčkem",
+  "shortName": "Kluk s hrníčkem",
+  "description": "Kluk co omylem dal právě kradený řetízek do jiného hrníčku.",
+  "color": "#cc8a6c",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Aquasoup",
+    "url": "https://aquasoup.com/"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "musim pryc",
+      "filename": "1-musim-pryc.mp3"
+    },
+    {
+      "name": "co jsi rikal",
+      "filename": "2-co-jsi-rikal.mp3"
+    },
+    {
+      "name": "pryc prosim",
+      "filename": "3-pryc-prosim.mp3"
+    },
+    {
+      "name": "vysvetlis",
+      "filename": "4-vysvetlis.mp3"
+    },
+    {
+      "name": "jak vysvetlis",
+      "filename": "5-jak-vysvetlis.mp3"
+    },
+    {
+      "name": "boli za krkem",
+      "filename": "6-boli-za-krkem.mp3"
+    },
+    {
+      "name": "odejit pryc",
+      "filename": "7-odejit-pryc.mp3"
+    },
+    {
+      "name": "proc pryc",
+      "filename": "8-proc-pryc.mp3"
+    },
+    {
+      "name": "nejakej problem",
+      "filename": "9-nejakej-problem.mp3"
+    },
+    {
+      "name": "jakej problem",
+      "filename": "10-jakej-problem.mp3"
+    },
+    {
+      "name": "nemuzu rict",
+      "filename": "11-nemuzu-rict.mp3"
+    },
+    {
+      "name": "reknes",
+      "filename": "12-reknes.mp3"
+    },
+    {
+      "name": "neni argument",
+      "filename": "13-neni-argument.mp3"
+    },
+    {
+      "name": "14 co jsi proved",
+      "filename": "14-co-jsi-proved.mp3"
+    },
+    {
+      "name": "vzal babicce",
+      "filename": "15-vzal-babicce.mp3"
+    },
+    {
+      "name": "co jsi rikal",
+      "filename": "16-co-jsi-rikal.mp3"
+    },
+    {
+      "name": "neco vzal babicce",
+      "filename": "17-neco-vzal-babicce.mp3"
+    },
+    {
+      "name": "co vzal babicce",
+      "filename": "18-co-vzal-babicce.mp3"
+    },
+    {
+      "name": "nemuzu rict",
+      "filename": "19-nemuzu-rict.mp3"
+    },
+    {
+      "name": "chci slyset",
+      "filename": "20-chci-slyset.mp3"
+    },
+    {
+      "name": "retizek vzal",
+      "filename": "21-retizek-vzal.mp3"
+    },
+    {
+      "name": "zlatej",
+      "filename": "22-zlatej.mp3"
+    },
+    {
+      "name": "jak to vite",
+      "filename": "23-jak-to-vite.mp3"
+    },
+    {
+      "name": "retez na vrata",
+      "filename": "24-retez-na-vrata.mp3"
+    },
+    {
+      "name": "retezizek hovado",
+      "filename": "25-retezizek-hovado.mp3"
+    },
+    {
+      "name": "prodal",
+      "filename": "26-prodal.mp3"
+    },
+    {
+      "name": "zastavarny",
+      "filename": "27-zastavarny.mp3"
+    },
+    {
+      "name": "fakt",
+      "filename": "28-fakt.mp3"
+    },
+    {
+      "name": "kam jdes",
+      "filename": "29-kam-jdes.mp3"
+    },
+    {
+      "name": "na vyslech",
+      "filename": "30-na-vyslech.mp3"
+    },
+    {
+      "name": "na policii",
+      "filename": "31-na-policii.mp3"
+    },
+    {
+      "name": "mozna se vratim",
+      "filename": "32-mozna-se-vratim.mp3"
+    },
+    {
+      "name": "babicka udala",
+      "filename": "33-babicka-udala.mp3"
+    },
+    {
+      "name": "kolik dostal",
+      "filename": "34-kolik-dostal.mp3"
+    },
+    {
+      "name": "castku uz nevim",
+      "filename": "35-castku-uz-nevim.mp3"
+    },
+    {
+      "name": "nevis",
+      "filename": "36-nevis.mp3"
+    },
+    {
+      "name": "milion dva",
+      "filename": "37-milion-dva.mp3"
+    },
+    {
+      "name": "to min",
+      "filename": "38-to-min.mp3"
+    },
+    {
+      "name": "skoda vi",
+      "filename": "39-skoda-vidmp3.mp3"
+    },
+    {
+      "name": "cos udelal",
+      "filename": "40-cos-udelal.mp3"
+    },
+    {
+      "name": "automaty fet",
+      "filename": "41-automaty-fet.mp3"
+    },
+    {
+      "name": "chlast",
+      "filename": "42-chlast.mp3"
+    },
+    {
+      "name": "cos udelal",
+      "filename": "43-cos-udelal.mp3"
+    },
+    {
+      "name": "koupit",
+      "filename": "44-koupit.mp3"
+    },
+    {
+      "name": "chtel",
+      "filename": "45.5-chtel.mp3"
+    },
+    {
+      "name": "koupil",
+      "filename": "45-koupil.mp3"
+    },
+    {
+      "name": "dopadlo",
+      "filename": "46-dopadlo.mp3"
+    },
+    {
+      "name": "neco do skoly",
+      "filename": "47-neco-do-skoly.mp3"
+    },
+    {
+      "name": "co do skoly",
+      "filename": "48-co-do-skoly.mp3"
+    },
+    {
+      "name": "sesity",
+      "filename": "49-sesity.mp3"
+    },
+    {
+      "name": "nekecam",
+      "filename": "50-nekecam.mp3"
+    },
+    {
+      "name": "prisaham",
+      "filename": "51-prisaham.mp3"
+    },
+    {
+      "name": "blby",
+      "filename": "52-blby.mp3"
+    },
+    {
+      "name": "ses eso",
+      "filename": "53-ses-eso.mp3"
+    },
+    {
+      "name": "vysvetlit",
+      "filename": "54-vysvetlit.mp3"
+    },
+    {
+      "name": "ach jo",
+      "filename": "55-ach-jo.mp3"
+    },
+    {
+      "name": "dramatu",
+      "filename": "56-dramatu.mp3"
+    },
+    {
+      "name": "57 do jinyho hrnicku",
+      "filename": "57-do-jinyho-hrnicku.mp3"
+    },
+    {
+      "name": "volali",
+      "filename": "58-volali.mp3"
+    },
+    {
+      "name": "volali 2",
+      "filename": "59-volali-2.mp3"
+    },
+    {
+      "name": "do jakyho hrnicku",
+      "filename": "60-do-jakyho-hrnicku.mp3"
+    },
+    {
+      "name": "omylem jiny",
+      "filename": "61-omylem-jiny.mp3"
+    },
+    {
+      "name": "omylem jiny hrnicek",
+      "filename": "62-omylem-jiny-hrnicek.mp3"
+    },
+    {
+      "name": "omylem jiny hrnicek ukrad",
+      "filename": "63-omylem-jiny-hrnicek-ukrad.mp3"
+    },
+    {
+      "name": "nerozumim",
+      "filename": "64-nerozumim.mp3"
+    },
+    {
+      "name": "hluk na schodech",
+      "filename": "65-hluk-na-schodech.mp3"
+    },
+    {
+      "name": "jiny hrnek",
+      "filename": "66-jiny-hrnek.mp3"
+    },
+    {
+      "name": "volali",
+      "filename": "67-volali.mp3"
+    },
+    {
+      "name": "volali ze",
+      "filename": "68-volali-ze.mp3"
+    },
+    {
+      "name": "kdo volal",
+      "filename": "69-kdo-volal.mp3"
+    },
+    {
+      "name": "strejda",
+      "filename": "70-strejda.mp3"
+    },
+    {
+      "name": "nasel",
+      "filename": "71-nasel.mp3"
+    },
+    {
+      "name": "jeste jednou",
+      "filename": "72-jeste-jednou.mp3"
+    },
+    {
+      "name": "na policii jednou",
+      "filename": "73-na-policii-jednou.mp3"
+    },
+    {
+      "name": "v usti",
+      "filename": "74-v-usti.mp3"
+    },
+    {
+      "name": "ano",
+      "filename": "75-ano.mp3"
+    },
+    {
+      "name": "uzavreli",
+      "filename": "76-uzavreli.mp3"
+    },
+    {
+      "name": "naslo",
+      "filename": "77-naslo.mp3"
+    },
+    {
+      "name": "omluvili",
+      "filename": "78-omluvili.mp3"
+    },
+    {
+      "name": "tata",
+      "filename": "79-tata.mp3"
+    },
+    {
+      "name": "streja",
+      "filename": "80-streja.mp3"
+    },
+    {
+      "name": "ukrad pako",
+      "filename": "81-ukrad-pako.mp3"
+    },
+    {
+      "name": "ne",
+      "filename": "82-ne.mp3"
+    },
+    {
+      "name": "omlouvam",
+      "filename": "83-omlouvam.mp3"
+    },
+    {
+      "name": "kecal",
+      "filename": "84-kecal.mp3"
+    },
+    {
+      "name": "da omylem",
+      "filename": "85-da-omylem.mp3"
+    },
+    {
+      "name": "jiny hluk",
+      "filename": "86-jiny-hluk.mp3"
+    },
+    {
+      "name": "strcil jiny",
+      "filename": "87-strcil-jiny.mp3"
+    },
+    {
+      "name": "hluk",
+      "filename": "88-hluk.mp3"
+    },
+    {
+      "name": "no",
+      "filename": "89-no.mp3"
+    },
+    {
+      "name": "majer",
+      "filename": "90-majer.mp3"
+    },
+    {
+      "name": "kde",
+      "filename": "91-kde.mp3"
+    },
+    {
+      "name": "schody",
+      "filename": "92-schody.mp3"
+    },
+    {
+      "name": "ukrast story",
+      "filename": "93-ukrast-story.mp3"
+    },
+    {
+      "name": "hluk",
+      "filename": "94-hluk.mp3"
+    },
+    {
+      "name": "vyplasil",
+      "filename": "95-vyplasil.mp3"
+    },
+    {
+      "name": "omylem jiny",
+      "filename": "96-omylem-jiny.mp3"
+    },
+    {
+      "name": "nechat",
+      "filename": "97-nechat.mp3"
+    },
+    {
+      "name": "neudelal",
+      "filename": "98-neudelal.mp3"
+    },
+    {
+      "name": "ukrast",
+      "filename": "99-ukrast.mp3"
+    },
+    {
+      "name": "nebo ne",
+      "filename": "100-nebo-ne.mp3"
+    },
+    {
+      "name": "chtel nechtel",
+      "filename": "101-chtel-nechtel.mp3"
+    },
+    {
+      "name": "chtel nechtel",
+      "filename": "102-chtel-nechtel.mp3"
+    },
+    {
+      "name": "babicce",
+      "filename": "103-babicce.mp3"
+    },
+    {
+      "name": "delal co",
+      "filename": "104-delal-co.mp3"
+    },
+    {
+      "name": "nasel",
+      "filename": "105-nasel.mp3"
+    },
+    {
+      "name": "druha varianta",
+      "filename": "106-druha-varianta.mp3"
+    },
+    {
+      "name": "jednal",
+      "filename": "107-jednal.mp3"
+    },
+    {
+      "name": "tri ctyri",
+      "filename": "108-tri-ctyri.mp3"
+    },
+    {
+      "name": "vrtal",
+      "filename": "109-vrtal.mp3"
+    },
+    {
+      "name": "pravdu",
+      "filename": "110-pravdu.mp3"
+    },
+    {
+      "name": "nasel",
+      "filename": "111-nasel.mp3"
+    },
+    {
+      "name": "prastrejda",
+      "filename": "112-prastrejda.mp3"
+    },
+    {
+      "name": "chapete to",
+      "filename": "113-chapete-to.mp3"
+    },
+    {
+      "name": "chapal",
+      "filename": "114-chapal.mp3"
+    },
+    {
+      "name": "prastrejda jezis",
+      "filename": "115-prastrejda-jezis.mp3"
+    },
+    {
+      "name": "priklad",
+      "filename": "116-priklad.mp3"
+    },
+    {
+      "name": "synovec pravej",
+      "filename": "117-synovec-pravej.mp3"
+    },
+    {
+      "name": "zavolal",
+      "filename": "118-zavolal.mp3"
+    },
+    {
+      "name": "pane sef",
+      "filename": "119-pane-sef.mp3"
+    },
+    {
+      "name": "smich",
+      "filename": "120-smich.mp3"
+    },
+    {
+      "name": "priklad",
+      "filename": "121-priklad.mp3"
+    },
+    {
+      "name": "jasne",
+      "filename": "122-jasne.mp3"
+    },
+    {
+      "name": "byl byste vklidu",
+      "filename": "123-byl-byste-vklidu.mp3"
+    },
+    {
+      "name": "zrudlej",
+      "filename": "124-zrudlej.mp3"
+    },
+    {
+      "name": "stydno",
+      "filename": "125-stydno.mp3"
+    },
+    {
+      "name": "vyjste dobrej",
+      "filename": "126-vyjste-dobrej.mp3"
+    },
+    {
+      "name": "ok",
+      "filename": "127-ok.mp3"
+    },
+    {
+      "name": "jo",
+      "filename": "128-jo.mp3"
+    },
+    {
+      "name": "let dvacet",
+      "filename": "129-let-dvacet.mp3"
+    },
+    {
+      "name": "neda pracovat",
+      "filename": "130-neda-pracovat.mp3"
+    }
+  ]
+}
