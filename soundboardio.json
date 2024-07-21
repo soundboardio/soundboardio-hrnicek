@@ -15,7 +15,7 @@
     {
       "src": "/icons/icon-48.png",
       "sizes": "48x48",
-      "purpose": "48x48",
+      "purpose": "any",
       "type": "image/png"
     },
     {
@@ -90,16 +90,8 @@
       "filename": "21-retizek-vzal.mp3"
     },
     {
-      "name": "Zlatej (spojit)",
-      "filename": "22-zlatej.mp3"
-    },
-    {
-      "name": "Jak to vite (spojit)",
-      "filename": "23-jak-to-vite.mp3"
-    },
-    {
-      "name": "retez na vrata (spojit)",
-      "filename": "24-retez-na-vrata.mp3"
+      "name": "Zlatej? Jak to víte? Řetěz na vrata",
+      "filename": "22-retez-na-vrata.mp3"
     },
     {
       "name": "Ukrad jsi zlatej řetízek, ty hovado",
@@ -174,12 +166,8 @@
       "filename": "57-do-jinyho-hrnicku.mp3"
     },
     {
-      "name": "volali (spojit)",
-      "filename": "58-volali.mp3"
-    },
-    {
-      "name": "volali 2 (spojit)",
-      "filename": "59-volali-2.mp3"
+      "name": "Mně volali, mně volali",
+      "filename": "58-volali-volali.mp3"
     },
     {
       "name": "Co jsi omylem dal kam?",
@@ -198,12 +186,8 @@
       "filename": "64-nerozumim.mp3"
     },
     {
-      "name": "hluk na schodech (spojit)",
-      "filename": "65-hluk-na-schodech.mp3"
-    },
-    {
-      "name": "jiny hrnek (spojit)",
-      "filename": "66-jiny-hrnek.mp3"
+      "name": "Hluk na schodech",
+      "filename": "65-hluk.mp3"
     },
     {
       "name": "Mě volal, že se našel",
@@ -214,44 +198,20 @@
       "filename": "76-uzavreli.mp3"
     },
     {
-      "name": "omluvili (spojit)",
-      "filename": "78-omluvili.mp3"
-    },
-    {
-      "name": "tata (spojit)",
-      "filename": "79-tata.mp3"
-    },
-    {
-      "name": "streja (spojit)",
-      "filename": "80-streja.mp3"
+      "name": "Všichni se mi omluvili",
+      "filename": "78-omluvili-vsichni.mp3"
     },
     {
       "name": "Řetízek ukrad, ty pako",
       "filename": "81-ukrad-pako.mp3"
     },
     {
-      "name": "Já se vám moc omlouvám (spojit)",
-      "filename": "83-omlouvam.mp3"
-    },
-    {
-      "name": "da omylem (spojit)",
-      "filename": "85-da-omylem.mp3"
-    },
-    {
-      "name": "jiny hluk (spojit)",
-      "filename": "86-jiny-hluk.mp3"
-    },
-    {
-      "name": "strcil jiny (spojit)",
-      "filename": "87-strcil-jiny.mp3"
+      "name": "Já se vám moc omlouvám, dal jsem ho di jinýho hrníčku",
+      "filename": "83-omlouvam-kecal.mp3"
     },
     {
       "name": "Pohádka od pana Majera",
       "filename": "90-majer.mp3"
-    },
-    {
-      "name": "schody",
-      "filename": "92-schody.mp3"
     },
     {
       "name": "Takže ta story je taková",
@@ -286,36 +246,16 @@
       "filename": "103-babicce.mp3"
     },
     {
-      "name": "Takže s tím řetízkem jsi dělal co? (spojit)",
-      "filename": "104-delal-co.mp3"
-    },
-    {
-      "name": "nasel (spojit)",
-      "filename": "105-nasel.mp3"
+      "name": "Takže s tím řetízkem jsi dělal co?",
+      "filename": "104-takze-s-tim-retizkem-ze-se-nasel.mp3"
     },
     {
       "name": "To je tvoje druhá varianta",
       "filename": "106-druha-varianta.mp3"
     },
     {
-      "name": "jedna (spojit)",
-      "filename": "107-jednal.mp3"
-    },
-    {
-      "name": "tri ctyri (spojit)",
-      "filename": "108-tri-ctyri.mp3"
-    },
-    {
-      "name": "vrtal (spojit)",
-      "filename": "109-vrtal.mp3"
-    },
-    {
-      "name": "pravdu (spojit)",
-      "filename": "110-pravdu.mp3"
-    },
-    {
-      "name": "nasel (spojit)",
-      "filename": "111-nasel.mp3"
+      "name": "Jednali tři, čtyři hodiny",
+      "filename": "107-jednali-hodiny.mp3"
     },
     {
       "name": "Prastrejda a strejda mýho táty",
@@ -326,12 +266,8 @@
       "filename": "113-chapete-to.mp3"
     },
     {
-      "name": "chapal (rozdělit)",
-      "filename": "114-chapal.mp3"
-    },
-    {
-      "name": "Kdybyste byl muj strejda, prastrejda",
-      "filename": "115-prastrejda-jezis.mp3"
+      "name": "Nemůžu říct, že bych to chápal",
+      "filename": "114-nechapal.mp3"
     },
     {
       "name": "Můj táta by váš byl pravej synovec",
@@ -370,8 +306,8 @@
       "filename": "127-ok.mp3"
     },
     {
-      "name": "Vy ještě vydržíte tak 20 let (přidat smích)",
-      "filename": "129-let-dvacet.mp3"
+      "name": "Vy ještě vydržíte tak 20 let!",
+      "filename": "129-vy-jeste-vydrzite-tak-20-let.mp3"
     },
     {
       "name": "Tady se nedá pracovat",
