@@ -1,12 +1,13 @@
 {
   "name": "Do jiného hrníčku",
-  "shortName": "Kluk s hrníčkem",
-  "description": "Mně volali, mně volali, ...",
+  "shortName": "Kluk s řetízkem",
+  "description": "Já jsem ten řetízek dal omylem do jiného hrníčku...",
+  "story": "Úryvek z pořadu Ano šéfe!, kde Zdeněk Pohlreich vyšetřuje případ ztraceného řetízku. Nakonec ale vše dobře dopadlo, protože učeň Pavel Bureš dal ten řetízek omylem do jiného hrníčku.",
   "color": "#cc8a6c",
   "rootUrl": "sounds/",
   "author": {
-    "name": "Aquasoup",
-    "url": "https://aquasoup.com/"
+    "name": "Sám Život",
+    "url": "https://www.youtube.com/watch?v=0MrRMa2MHx8"
   },
   "lang": "cs",
   "version": "1.0.0",
@@ -65,7 +66,7 @@
       "filename": "12-reknes.mp3"
     },
     {
-      "name": "Cio jsi proved?",
+      "name": "Co jsi proved?",
       "filename": "14-co-jsi-proved.mp3"
     },
     {
@@ -79,10 +80,6 @@
     {
       "name": "Co jsi vzal babičce?",
       "filename": "18-co-vzal-babicce.mp3"
-    },
-    {
-      "name": "To nemůžu říct",
-      "filename": "19-nemuzu-rict.mp3"
     },
     {
       "name": "Já to chci slyšet od tebe",
@@ -125,7 +122,7 @@
       "filename": "35-castku-uz-nevim.mp3"
     },
     {
-      "name": "Milion nebo dva",
+      "name": "Milion nebo dva?",
       "filename": "37-milion-dva.mp3"
     },
     {
@@ -209,10 +206,6 @@
       "filename": "66-jiny-hrnek.mp3"
     },
     {
-      "name": "Strejda",
-      "filename": "70-strejda.mp3"
-    },
-    {
       "name": "Mě volal, že se našel",
       "filename": "71-nasel.mp3"
     },
@@ -237,19 +230,19 @@
       "filename": "81-ukrad-pako.mp3"
     },
     {
-      "name": "Já se vám moc omlouvám",
+      "name": "Já se vám moc omlouvám (spojit)",
       "filename": "83-omlouvam.mp3"
     },
     {
-      "name": "da omylem",
+      "name": "da omylem (spojit)",
       "filename": "85-da-omylem.mp3"
     },
     {
-      "name": "jiny hluk",
+      "name": "jiny hluk (spojit)",
       "filename": "86-jiny-hluk.mp3"
     },
     {
-      "name": "strcil jiny",
+      "name": "strcil jiny (spojit)",
       "filename": "87-strcil-jiny.mp3"
     },
     {
@@ -261,23 +254,23 @@
       "filename": "92-schody.mp3"
     },
     {
-      "name": "ukrast story",
+      "name": "Takže ta story je taková",
       "filename": "93-ukrast-story.mp3"
     },
     {
-      "name": "hluk",
+      "name": "Hned jsem slyšel hluk",
       "filename": "94-hluk.mp3"
     },
     {
-      "name": "vyplasil",
+      "name": "Takže tě vyplašil někdo",
       "filename": "95-vyplasil.mp3"
     },
     {
-      "name": "omylem jiny",
+      "name": "Ale omylem do jinýho hrníčku",
       "filename": "96-omylem-jiny.mp3"
     },
     {
-      "name": "nechat",
+      "name": "To už sis to moh rovnou nechat",
       "filename": "97-nechat.mp3"
     },
     {
@@ -293,111 +286,95 @@
       "filename": "103-babicce.mp3"
     },
     {
-      "name": "delal co",
+      "name": "Takže s tím řetízkem jsi dělal co? (spojit)",
       "filename": "104-delal-co.mp3"
     },
     {
-      "name": "nasel",
+      "name": "nasel (spojit)",
       "filename": "105-nasel.mp3"
     },
     {
-      "name": "druha varianta",
+      "name": "To je tvoje druhá varianta",
       "filename": "106-druha-varianta.mp3"
     },
     {
-      "name": "jednal",
+      "name": "jedna (spojit)",
       "filename": "107-jednal.mp3"
     },
     {
-      "name": "tri ctyri",
+      "name": "tri ctyri (spojit)",
       "filename": "108-tri-ctyri.mp3"
     },
     {
-      "name": "vrtal",
+      "name": "vrtal (spojit)",
       "filename": "109-vrtal.mp3"
     },
     {
-      "name": "pravdu",
+      "name": "pravdu (spojit)",
       "filename": "110-pravdu.mp3"
     },
     {
-      "name": "nasel",
+      "name": "nasel (spojit)",
       "filename": "111-nasel.mp3"
     },
     {
-      "name": "prastrejda",
+      "name": "Prastrejda a strejda mýho táty",
       "filename": "112-prastrejda.mp3"
     },
     {
-      "name": "chapete to",
+      "name": "Chápete to",
       "filename": "113-chapete-to.mp3"
     },
     {
-      "name": "chapal",
+      "name": "chapal (rozdělit)",
       "filename": "114-chapal.mp3"
     },
     {
-      "name": "prastrejda jezis",
+      "name": "Kdybyste byl muj strejda, prastrejda",
       "filename": "115-prastrejda-jezis.mp3"
     },
     {
-      "name": "priklad",
-      "filename": "116-priklad.mp3"
-    },
-    {
-      "name": "synovec pravej",
+      "name": "Můj táta by váš byl pravej synovec",
       "filename": "117-synovec-pravej.mp3"
     },
     {
-      "name": "zavolal",
-      "filename": "118-zavolal.mp3"
-    },
-    {
-      "name": "pane sef",
+      "name": "Pane šéf, nesmějte se",
       "filename": "119-pane-sef.mp3"
     },
     {
-      "name": "smich",
+      "name": "Smích",
       "filename": "120-smich.mp3"
     },
     {
-      "name": "priklad",
+      "name": "Já vam to řikám jenom příklad",
       "filename": "121-priklad.mp3"
     },
     {
-      "name": "jasne",
-      "filename": "122-jasne.mp3"
-    },
-    {
-      "name": "byl byste vklidu",
+      "name": "Byl ste by taky v klidu",
       "filename": "123-byl-byste-vklidu.mp3"
     },
     {
-      "name": "zrudlej",
+      "name": "Úplně rudej jste",
       "filename": "124-zrudlej.mp3"
     },
     {
-      "name": "stydno",
+      "name": "Mně je stydno za tebe",
       "filename": "125-stydno.mp3"
     },
     {
-      "name": "vyjste dobrej",
+      "name": "Vy jste dobrej",
       "filename": "126-vyjste-dobrej.mp3"
     },
     {
-      "name": "ok",
+      "name": "Myslíš, že jsem ok, jo?",
       "filename": "127-ok.mp3"
     },
     {
-      "name": "jo",
-      "filename": "128-jo.mp3"
-    },
-    {
-      "name": "let dvacet",
+      "name": "Vy ještě vydržíte tak 20 let (přidat smích)",
       "filename": "129-let-dvacet.mp3"
     },
     {
-      "name": "neda pracovat",
+      "name": "Tady se nedá pracovat",
       "filename": "130-neda-pracovat.mp3"
     }
   ]
