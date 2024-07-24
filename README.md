@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./icons/icon.jpg" width="80">
+  <img src="./icons/icon.png" width="80">
   <h1 align="center">SoundBoardio plugin: Kluk s hrníčkem</h1>
 </p>
 
