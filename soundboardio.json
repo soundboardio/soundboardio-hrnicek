@@ -1,8 +1,8 @@
 {
   "name": "Do jiného hrníčku",
   "shortName": "Kluk s řetízkem",
-  "description": "Já jsem ten řetízek dal omylem do jiného hrníčku...",
-  "story": "Úryvek z pořadu Ano šéfe!, kde Zdeněk Pohlreich vyšetřuje případ ztraceného řetízku. Nakonec ale vše dobře dopadlo, protože učeň Pavel Bureš dal ten řetízek omylem do jiného hrníčku.",
+  "description": "Já jsem ten řetízek dal omylem do jiného hrníčku",
+  "story": "Úryvek z pořadu \"Ano šéfe!\", kde Zdeněk Pohlreich vyšetřuje případ ztraceného řetízku. Případ je také známý pod názvem \"Kluk s řetízkem\". Nakonec ale vše dobře dopadlo, protože učeň Pavel Bureš dal ten řetízek omylem do jiného hrníčku.",
   "color": "#303F9F",
   "rootUrl": "sounds/",
   "author": {
@@ -13,7 +13,7 @@
   "version": "1.0.0",
   "icons": [
     {
-      "src": "/icons/icon-48.png",
+      "src": "/icons/icon.png",
       "sizes": "48x48",
       "purpose": "any",
       "type": "image/png"
