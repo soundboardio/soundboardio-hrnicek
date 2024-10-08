@@ -299,15 +299,21 @@
   ],
   "references": [
     {
-      "name": "Originální video z Ano šéfe! [YouTube]",
+      "name": "Originální video z pořadu Ano šéfe!",
+      "source": "YouTube",
+      "year": 2014,
       "url": "https://www.youtube.com/watch?v=0MrRMa2MHx8"
     },
     {
-      "name": "Bonus: Jdu k soudu [YouTube]",
+      "name": "Bonus: Jdu k soudu",
+      "source": "YouTube",
+      "year": 2014,
       "url": "https://www.youtube.com/watch?v=Gvjg4rbGyWs"
     },
     {
-      "name": "Bonus: Vstupenka na hokej [YouTube]",
+      "name": "Bonus: Vstupenka na hokej",
+      "source": "YouTube",
+      "year": 2015,
       "url": "https://www.youtube.com/watch?v=xzi_DHN3L2A"
     }
   ]
