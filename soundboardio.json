@@ -16,14 +16,14 @@
   "version": "1.0.0",
   "icons": [
     {
-      "src": "/icons/icon.png",
-      "sizes": "48x48",
-      "purpose": "any",
-      "type": "image/png"
+      "src": "/icons/og-image.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg"
     },
     {
       "src": "/icons/icon.png",
-      "sizes": "144x144",
+      "sizes": "48x48",
+      "purpose": "any",
       "type": "image/png"
     }
   ],
