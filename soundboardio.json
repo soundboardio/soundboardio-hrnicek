@@ -42,271 +42,338 @@
   "tiles": [
     {
       "name": "Šéfe, já musim pryč",
-      "filename": "1-musim-pryc.mp3"
+      "filename": "1-musim-pryc.mp3",
+      "transcript": "Šéfe, já musim jít pryč"
     },
     {
       "name": "Co si řikal?!",
-      "filename": "2-co-jsi-rikal.mp3"
+      "filename": "2-co-jsi-rikal.mp3",
+      "transcript": "Co si řikal?!"
     },
     {
       "name": "Musím pryč, prosím",
-      "filename": "3-pryc-prosim.mp3"
+      "filename": "3-pryc-prosim.mp3",
+      "transcript": "Že musim jít pryč, prosím."
     },
     {
       "name": "To mi vysvětlíš, ne?",
-      "filename": "4-vysvetlis.mp3"
+      "filename": "4-vysvetlis.mp3",
+      "transcript": "Počkej, počkej, to mi vysvětlíš, ne?"
     },
     {
       "name": "Mě z tebe bolí za krkem",
-      "filename": "6-boli-za-krkem.mp3"
+      "filename": "6-boli-za-krkem.mp3",
+      "transcript": "Stoupni si vo schod níž, já se nemám chuť koukat, vole, mě bolí za krkem z tebe."
     },
     {
       "name": "Já musim odejít pryč",
-      "filename": "7-odejit-pryc.mp3"
+      "filename": "7-odejit-pryc.mp3",
+      "transcript": "Já musim odejít pryč"
     },
     {
       "name": "Mám nějakej problém",
-      "filename": "9-nejakej-problem.mp3"
+      "filename": "9-nejakej-problem.mp3",
+      "transcript": "Mám, mám nějakej problém"
     },
     {
       "name": "Jakej máš problém?",
-      "filename": "10-jakej-problem.mp3"
+      "filename": "10-jakej-problem.mp3",
+      "transcript": "Jakej máš problém?"
     },
     {
       "name": "To nemůžu říct",
-      "filename": "11-nemuzu-rict.mp3"
+      "filename": "11-nemuzu-rict.mp3",
+      "transcript": "To nemůžu říct."
     },
     {
       "name": "To mi řekneš!",
-      "filename": "12-reknes.mp3"
+      "filename": "12-reknes.mp3",
+      "transcript": "To mi řekneš!"
     },
     {
       "name": "Co jsi proved?",
-      "filename": "14-co-jsi-proved.mp3"
+      "filename": "14-co-jsi-proved.mp3",
+      "transcript": "Co je? Co jsi proved?"
     },
     {
       "name": "Vzal jsem něco babičce",
-      "filename": "15-vzal-babicce.mp3"
+      "filename": "15-vzal-babicce.mp3",
+      "transcript": "No, vzal jsem něco babičce"
     },
     {
       "name": "Co jsi řikal?",
-      "filename": "16-co-jsi-rikal.mp3"
+      "filename": "16-co-jsi-rikal.mp3",
+      "transcript": "Co si řikal?"
     },
     {
       "name": "Co jsi vzal babičce?",
-      "filename": "18-co-vzal-babicce.mp3"
+      "filename": "18-co-vzal-babicce.mp3",
+      "transcript": "Co jsi vzal babičce?"
     },
     {
       "name": "Já to chci slyšet od tebe",
-      "filename": "20-chci-slyset.mp3"
+      "filename": "20-chci-slyset.mp3",
+      "transcript": "Já to chci slyšet od tebe"
     },
     {
       "name": "Řetízek jsem jí vzal",
-      "filename": "21-retizek-vzal.mp3"
+      "filename": "21-retizek-vzal.mp3",
+      "transcript": "řetízek jsem jí vzal"
     },
     {
       "name": "Zlatej? Jak to víte? Řetěz na vrata",
-      "filename": "22-retez-na-vrata.mp3"
+      "filename": "22-retez-na-vrata.mp3",
+      "transcript": "Zlatej?"
     },
     {
       "name": "Ukrad jsi zlatej řetízek, ty hovado",
-      "filename": "25-retezizek-hovado.mp3"
+      "filename": "25-retezizek-hovado.mp3",
+      "transcript": "Takže jsi jí ukrad… ukrad jsi zlatej řetízek, ty hovado. A co jsi s ním udělal?"
     },
     {
       "name": "A teďka jdeš kam jako?",
-      "filename": "29-kam-jdes.mp3"
+      "filename": "29-kam-jdes.mp3",
+      "transcript": "A teďka jdeš kam jako?"
     },
     {
       "name": "Možná se vrátim ještě",
-      "filename": "32-mozna-se-vratim.mp3"
+      "filename": "32-mozna-se-vratim.mp3",
+      "transcript": "Možná se vrátim ještě"
     },
     {
       "name": "Kolik jsi za něj dostal?",
-      "filename": "34-kolik-dostal.mp3"
+      "filename": "34-kolik-dostal.mp3",
+      "transcript": "Kolik jsi za něj dostal?"
     },
     {
       "name": "Částku už nevim",
-      "filename": "35-castku-uz-nevim.mp3"
+      "filename": "35-castku-uz-nevim.mp3",
+      "transcript": "Částku už nevim"
     },
     {
       "name": "Milion nebo dva?",
-      "filename": "37-milion-dva.mp3"
+      "filename": "37-milion-dva.mp3",
+      "transcript": "Tak to víš, ne? Jestli to byl milion nebo dva, ne?"
     },
     {
       "name": "To ne, to míň!",
-      "filename": "38-to-min.mp3"
+      "filename": "38-to-min.mp3",
+      "transcript": "To ne, to míň!"
     },
     {
       "name": "Míň, jo? Škoda viď",
-      "filename": "39-skoda-vidmp3.mp3"
+      "filename": "39-skoda-vidmp3.mp3",
+      "transcript": "Míň, jo? Škoda, viď"
     },
     {
       "name": "Co si s tim udělal, mi řekni",
-      "filename": "43-cos-udelal.mp3"
+      "filename": "43-cos-udelal.mp3",
+      "transcript": "Co jsi s tím udělal, mi řekni"
     },
     {
       "name": "Chtěl jsem si koupit nějaký sešity",
-      "filename": "44-nejaky-sesity.mp3"
+      "filename": "44-nejaky-sesity.mp3",
+      "transcript": "Chtěl jsem si něco koupit, no."
     },
     {
       "name": "Vysvětlit, to nevysvětlitelný",
-      "filename": "54-vysvetlit.mp3"
+      "filename": "54-vysvetlit.mp3",
+      "transcript": "jim to vysvětlit, to nevysvětlitelný"
     },
     {
       "name": "Ách jo",
-      "filename": "55-ach-jo.mp3"
+      "filename": "55-ach-jo.mp3",
+      "transcript": "Ách jo"
     },
     {
       "name": "Omylem dal do jinýho hrníčku",
-      "filename": "57-do-jinyho-hrnicku.mp3"
+      "filename": "57-do-jinyho-hrnicku.mp3",
+      "transcript": "Dopadlo to tak, šéfe, že jsem to omylem dal do jinýho hrníčku."
     },
     {
       "name": "Mně volali, mně volali",
-      "filename": "58-volali-volali.mp3"
+      "filename": "58-volali-volali.mp3",
+      "transcript": "Oni mně volali, oni mně volali"
     },
     {
       "name": "Co jsi omylem dal kam?",
-      "filename": "60-do-jakyho-hrnicku.mp3"
+      "filename": "60-do-jakyho-hrnicku.mp3",
+      "transcript": "Co jsi omylem dal kam? Do jakýho hrníčku?"
     },
     {
       "name": "Omylem dal do jinýho hrníčku 2",
-      "filename": "62-omylem-jiny-hrnicek.mp3"
+      "filename": "62-omylem-jiny-hrnicek.mp3",
+      "transcript": "ten řetízek jsem dal omylem do jinýho hrníčku"
     },
     {
       "name": "Ten co jsi ukrad, jsi dal omylem do jinýho hrníčku",
-      "filename": "63-omylem-jiny-hrnicek-ukrad.mp3"
+      "filename": "63-omylem-jiny-hrnicek-ukrad.mp3",
+      "transcript": "Ten, co jsi ukrad, jsi dal omylem do jinýho hrníčku"
     },
     {
       "name": "Já ti vůbec nerozumim",
-      "filename": "64-nerozumim.mp3"
+      "filename": "64-nerozumim.mp3",
+      "transcript": "Já ti vůbec nerozumim"
     },
     {
       "name": "Hluk na schodech",
-      "filename": "65-hluk.mp3"
+      "filename": "65-hluk.mp3",
+      "transcript": "No protože já jsem tam slyšel hluk. Někdo tam šel po schodech a slyšel jsem hluk a omylem jsem to dal do jinýho hrníčku."
     },
     {
       "name": "Mně volal, že se našel",
-      "filename": "71-nasel.mp3"
+      "filename": "71-nasel.mp3",
+      "transcript": "že mně volal, že se našel"
     },
     {
       "name": "Prokotol",
-      "filename": "76-uzavreli.mp3"
+      "filename": "76-uzavreli.mp3",
+      "transcript": "Sepsali se mnou prokotol a uzavřeli to už, no"
     },
     {
       "name": "Všichni se mi omluvili",
-      "filename": "78-omluvili-vsichni.mp3"
+      "filename": "78-omluvili-vsichni.mp3",
+      "transcript": "že se to našlo. A že všichni se mi omluvili, jak babička, táta, strejda a kamarádi"
     },
     {
       "name": "Řetízek ukrad, ty pako",
-      "filename": "81-ukrad-pako.mp3"
+      "filename": "81-ukrad-pako.mp3",
+      "transcript": "Ale vždyť jsi mi říkal, že jsi ten řetízek ukrad, ty pako."
     },
     {
       "name": "Já se vám moc omlouvám, dal jsem ho do jinýho hrníčku",
-      "filename": "83-omlouvam-kecal.mp3"
+      "filename": "83-omlouvam-kecal.mp3",
+      "transcript": "Ne, já jsem ho omylem… Šéfe, omlouvám se vám, moc se omlouvám, že jsem vám kecal. Dal jsem ho omylem, dal jsem ho omylem do jinýho hrníčku. Slyšel jsem hluk, no, tak jsem ho strčil do jinýho hrníčku."
     },
     {
       "name": "Pohádka od pana Majera",
-      "filename": "90-majer.mp3"
+      "filename": "90-majer.mp3",
+      "transcript": "No to je jak pohádka od pana Majera, ty vole"
     },
     {
       "name": "Takže ta story je taková",
-      "filename": "93-ukrast-story.mp3"
+      "filename": "93-ukrast-story.mp3",
+      "transcript": "Takže ta story je taková, že ty jsi přišel, chtěl jsi ukrást ten řetízek"
     },
     {
       "name": "Hned jsem slyšel hluk",
-      "filename": "94-hluk.mp3"
+      "filename": "94-hluk.mp3",
+      "transcript": "hned jsem zároveň slyšel hluk"
     },
     {
       "name": "Takže tě vyplašil někdo",
-      "filename": "95-vyplasil.mp3"
+      "filename": "95-vyplasil.mp3",
+      "transcript": "takže tě vyplašil někdo při tom činu"
     },
     {
       "name": "Ale omylem do jinýho hrníčku",
-      "filename": "96-omylem-jiny.mp3"
+      "filename": "96-omylem-jiny.mp3",
+      "transcript": "tak to hodím zpátky, no ale omylem do jinýho hrníčku"
     },
     {
       "name": "To už sis to moh rovnou nechat",
-      "filename": "97-nechat.mp3"
+      "filename": "97-nechat.mp3",
+      "transcript": "to už sis to moh rovnou nechat"
     },
     {
       "name": "To by byla krádež",
-      "filename": "98-neudelal.mp3"
+      "filename": "98-neudelal.mp3",
+      "transcript": "To by byla krádež. Já bych to babičce neudělal, tadyto"
     },
     {
       "name": "Vždyťs to šel ukrást, ty vole",
-      "filename": "99-ukrast.mp3"
+      "filename": "99-ukrast.mp3",
+      "transcript": "Vždyťs to šel ukrást, ty vole"
     },
     {
       "name": "Babičce bych to neudělal",
-      "filename": "103-babicce.mp3"
+      "filename": "103-babicce.mp3",
+      "transcript": "Babičce bych to neudělal"
     },
     {
       "name": "Takže s tím řetízkem jsi dělal co?",
-      "filename": "104-takze-s-tim-retizkem-ze-se-nasel.mp3"
+      "filename": "104-takze-s-tim-retizkem-ze-se-nasel.mp3",
+      "transcript": "Takže s tím řetízkem jsi dělal co, když jsi ho dával do toho jinýho hrníčku?"
     },
     {
       "name": "To je tvoje druhá varianta",
-      "filename": "106-druha-varianta.mp3"
+      "filename": "106-druha-varianta.mp3",
+      "transcript": "To máš… to je tvoje druhá varianta, todle"
     },
     {
       "name": "Jednali tři, čtyři hodiny",
-      "filename": "107-jednali-hodiny.mp3"
+      "filename": "107-jednali-hodiny.mp3",
+      "transcript": "Pak jsem jednal s tátou o tom tři hodiny, čtyři hodiny. Mi vrtal do hlavy, kde je ten řetízek, a pak jsem mu taky řekl pravdu, ne, teda, že je to… strejda, že se našel ten řetízek."
     },
     {
       "name": "Prastrejda a strejda mýho táty",
-      "filename": "112-prastrejda.mp3"
+      "filename": "112-prastrejda.mp3",
+      "transcript": "To je jako můj prastrejda a strejda mýho táty"
     },
     {
       "name": "Chápete to",
-      "filename": "113-chapete-to.mp3"
+      "filename": "113-chapete-to.mp3",
+      "transcript": "Chápete to"
     },
     {
       "name": "Nemůžu říct, že bych to chápal",
-      "filename": "114-nechapal.mp3"
+      "filename": "114-nechapal.mp3",
+      "transcript": "No, nemůžu úplně říct, že bych to chápal, ale…"
     },
     {
       "name": "Můj táta by váš byl pravej synovec",
-      "filename": "117-synovec-pravej.mp3"
+      "filename": "117-synovec-pravej.mp3",
+      "transcript": "No, a můj táta by váš byl jako pravej synovec"
     },
     {
       "name": "Pane šéf, nesmějte se",
-      "filename": "119-pane-sef.mp3"
+      "filename": "119-pane-sef.mp3",
+      "transcript": "Pane šéf, ale nesmějte se"
     },
     {
       "name": "Smích",
-      "filename": "120-smich.mp3"
+      "filename": "120-smich.mp3",
+      "transcript": "Ty mě zabiješ"
     },
     {
       "name": "Já vám to řikám jenom příklad",
-      "filename": "121-priklad.mp3"
+      "filename": "121-priklad.mp3",
+      "transcript": "Já vám to říkám jenom příklad"
     },
     {
       "name": "Byl ste by taky v klidu",
-      "filename": "123-byl-byste-vklidu.mp3"
+      "filename": "123-byl-byste-vklidu.mp3",
+      "transcript": "Kdybyste byl jako strejda mýho táty a můj prastrejda, tak byste mu to zavolal a byl jste by taky v klidu"
     },
     {
       "name": "Úplně rudej jste",
-      "filename": "124-zrudlej.mp3"
+      "filename": "124-zrudlej.mp3",
+      "transcript": "Úplně rudej jste"
     },
     {
       "name": "Mně je stydno za tebe",
-      "filename": "125-stydno.mp3"
+      "filename": "125-stydno.mp3",
+      "transcript": "mně je stydno za tebe"
     },
     {
       "name": "Vy jste dobrej",
-      "filename": "126-vyjste-dobrej.mp3"
+      "filename": "126-vyjste-dobrej.mp3",
+      "transcript": "Ale ne, vy jste dobrej"
     },
     {
       "name": "Myslíš, že jsem ok, jo?",
-      "filename": "127-ok.mp3"
+      "filename": "127-ok.mp3",
+      "transcript": "Myslíš, že jsem ok, jo?"
     },
     {
       "name": "Vy ještě vydržíte tak 20 let!",
-      "filename": "129-vy-jeste-vydrzite-tak-20-let.mp3"
+      "filename": "129-vy-jeste-vydrzite-tak-20-let.mp3",
+      "transcript": "Vy ještě vydržíte tak 20 let!"
     },
     {
       "name": "Tady se nedá pracovat",
-      "filename": "130-neda-pracovat.mp3"
+      "filename": "130-neda-pracovat.mp3",
+      "transcript": "Tady se nedá pracovat, ty vole"
     }
   ],
   "references": [
@@ -315,6 +382,12 @@
       "source": "YouTube",
       "year": 2014,
       "url": "https://www.youtube.com/watch?v=0MrRMa2MHx8"
+    },
+    {
+      "name": "Celá scéna: Kluk co (ne)ukradl zlatý řetízek",
+      "source": "YouTube",
+      "note": "Sedm minut včetně návratu z policie",
+      "url": "https://www.youtube.com/watch?v=56NTK8SbdDU"
     },
     {
       "name": "Bonus: Jdu k soudu",
@@ -328,5 +401,114 @@
       "year": 2015,
       "url": "https://www.youtube.com/watch?v=xzi_DHN3L2A"
     }
+  ],
+  "lyrics": [
+    "– Šéfe, já musim jít pryč.",
+    "– Co si řikal?!",
+    "– Že musim jít pryč, prosím.",
+    "– Počkej, počkej, to mi vysvětlíš, ne?",
+    "– Jak vysvětlíš?",
+    "– Stoupni si vo schod níž, já se nemám chuť koukat, vole, mě bolí za krkem z tebe. No?",
+    "– Já musim odejít pryč.",
+    "– Proč bys měl chodit pryč?",
+    "– Mám, mám nějakej problém, no.",
+    "– Jakej máš problém?",
+    "– To nemůžu říct.",
+    "– To mi řekneš! Že máš nějakej problém, není žádnej argument, jako. Jak? Co je? Co jsi proved?",
+    "– No, vzal jsem něco babičce, no.",
+    "– Co si řikal?",
+    "– Že jsem něco vzal babičce, no.",
+    "– Co jsi vzal babičce?",
+    "– To nemůžu říct…",
+    "– Já to chci slyšet od tebe.",
+    "– No, řetízek jsem jí vzal.",
+    "– Zlatej?",
+    "– No. Jak to víte?",
+    "– No nevím. Kdyby to byl řetěz na vrata, tak by se asi nekradl, ne?",
+    "– Takže jsi jí ukrad… ukrad jsi zlatej řetízek, ty hovado. A co jsi s ním udělal?",
+    "– Prodal.",
+    "– Takže jsi ho odnes někam do zastavárny, jo? Vzal jsi za to peníze? Fakt? A teďka jdeš kam jako? Na výslech? Jdeš na policii?",
+    "– Možná se vrátim ještě.",
+    "– Babička tě jako udala na policii, že jsi jí ukrad zlatej řetízek? Kolik jsi za něj dostal?",
+    "– Částku už nevim.",
+    "– Nevíš? Tak to víš, ne? Jestli to byl milion nebo dva, ne?",
+    "– To ne, to míň!",
+    "– Míň, jo? Škoda, viď. A co jsi udělal s těma penězma? Automaty?",
+    "– Ne.",
+    "– Fet? Chlast? Co jsi s tím udělal? Co jsi s tím udělal, mi řekni.",
+    "– Chtěl jsem si něco koupit, no.",
+    "– No, co jsi koupil?",
+    "– Chtěl jsem si něco koupit.",
+    "– A jak to dopadlo?",
+    "– Něco do školy, no.",
+    "– Co do školy?",
+    "– Nějaký sešity a takový.",
+    "– Ty kecáš.",
+    "– Nekecám, šéfe.",
+    "– Kecáš.",
+    "– Přísahám Bohu.",
+    "– To ti to není blbý? Jo? No, seš eso. Takže teďka jdeš na policii jim to vysvětlit, to nevysvětlitelný.",
+    "– Ách jo.",
+    "– Pane šéf, můžete na chvilku?",
+    "– Co se děje?",
+    "– Tak jsem se vrátil, no, a omlouvám se, ale nebudu už vařit, jo? Podívám se tady jenom, jestli mi tady dovolíte se podívat. A dopadlo to tak, že jdu k soudu.",
+    "– Jdeš k soudu, ty debile? Dobře ti tak. Mazej se převlíct, dělej!",
+    "– A kam?",
+    "– Tady, tady. Potom, co se bude nebo nebude dít, budu rozhodovat já, jo? Je to jasný? Šatna nahoře, mazej, vole, máš na to přesně 30 vteřin, dělej!",
+    "– No nazdar.",
+    "– Dobrý den, pane šéf.",
+    "– Sedni si. Tak jak se máš?",
+    "– Dobrý, v pohodě. A vy?",
+    "– Dobrý. Co, ty už zavřeli?",
+    "– Ne. Já vám to pak…",
+    "– Tak mi vyprávěj vo tom, vo tom tvým dramatu, jak to dopadlo.",
+    "– Dopadlo to tak, šéfe, že jsem to omylem dal do jinýho hrníčku. Oni mně volali, oni mně volali.",
+    "– Co jsi omylem dal kam? Do jakýho hrníčku?",
+    "– Omylem z jiný… ten řetízek jsem dal omylem do jinýho hrníčku.",
+    "– Ten, co jsi ukrad, jsi dal omylem do jinýho hrníčku?",
+    "– Jo.",
+    "– Já ti vůbec nerozumim, ale…",
+    "– No protože já jsem tam slyšel hluk. Někdo tam šel po schodech a slyšel jsem hluk a omylem jsem to dal do jinýho hrníčku. Pak mi volali, pak mi volali, že…",
+    "– Kdo ti volal?",
+    "– Strejda. No, že mně volal, že se našel, no. A tak jsem šel ještě jednou, ještě jednou ve tři hodiny druhý den odpoledne na policii, tady v Ústí na Střekově.",
+    "– Ano.",
+    "– Sepsali se mnou prokotol a uzavřeli to už, no, že se to našlo. A že všichni se mi omluvili, jak babička, táta, strejda a kamarádi.",
+    "– Ale vždyť jsi mi říkal, že jsi ten řetízek ukrad, ty pako.",
+    "– Neukrad. Ne, já jsem ho omylem… Šéfe, omlouvám se vám, moc se omlouvám, že jsem vám kecal. Dal jsem ho omylem, dal jsem ho omylem do jinýho hrníčku. Slyšel jsem hluk, no, tak jsem ho strčil do jinýho hrníčku.",
+    "– Ty jsi slyšel hluk? No to je jak pohádka od pana Majera, ty vole. Hele, ty, ty jsi… ty jsi slyšel hluk kde?",
+    "– No, že někdo šel po schodech.",
+    "– Takže ta story je taková, že ty jsi přišel, chtěl jsi ukrást ten řetízek a „hned jsem zároveň slyšel hluk“, takže tě vyplašil někdo při tom činu.",
+    "– No jo.",
+    "– Tak takže jsi říkal, tak to hodím zpátky, no ale omylem do jinýho hrníčku. No to už sis to moh rovnou nechat, ne?",
+    "– To by byla krádež. Já bych to babičce neudělal, tadyto.",
+    "– Vždyťs to šel ukrást, ty vole, nebo ne?",
+    "– No, nechtěl jsem to ukrást.",
+    "– Ale chtěl, nebo nechtěl?",
+    "– Nechtěl. Babičce bych to neudělal.",
+    "– Takže s tím řetízkem jsi dělal co, když jsi ho dával do toho jinýho hrníčku?",
+    "– No, volali mi, že se našel.",
+    "– To máš… to je tvoje druhá varianta, todle.",
+    "– Pak jsem jednal s tátou o tom tři hodiny, čtyři hodiny. Mi vrtal do hlavy, kde je ten řetízek, a pak jsem mu taky řekl pravdu, ne, teda, že je to… strejda, že se našel ten řetízek. To je jako můj prastrejda a strejda mýho táty.",
+    "– Ano.",
+    "– Chápete to, že to je můj prastrejda?",
+    "– No, nemůžu úplně říct, že bych to chápal, ale…",
+    "– Kdybyste byl jako můj strejda, prastrejda…",
+    "– Ježiš, to bych snad ani… to snad ani nemusí bejt.",
+    "– Já vám to dávám jenom příklad, no.",
+    "– No, no.",
+    "– No, a můj táta by váš byl jako pravej synovec, jo?",
+    "– Jo, takhle.",
+    "– No, takže byste zavolal mýmu tátovi. Pane šéf, ale nesmějte se, prosím!",
+    "– Ty mě zabiješ.",
+    "– Já vám to říkám jenom příklad, jo?",
+    "– Jasně. Jo. No.",
+    "– Kdybyste byl jako strejda mýho táty a můj prastrejda, tak byste mu to zavolal a byl jste by taky v klidu. Úplně rudej jste.",
+    "– No, protože se musím smát, ty vole. Mně… mně je stydno za tebe.",
+    "– Ale ne, vy jste dobrej.",
+    "– Myslíš, že jsem ok, jo?",
+    "– Jo.",
+    "– Jo, chlapče, chlapče, chlapče…",
+    "– Vy ještě vydržíte tak 20 let!",
+    "– Tady se nedá pracovat, ty vole."
   ]
 }
