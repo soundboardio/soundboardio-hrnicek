@@ -1,29 +1,34 @@
 <p align="center">
-  <img src="./icons/icon.png" width="80">
-  <h1 align="center">SoundBoardio plugin: Kluk s hrníčkem</h1>
+  <a href="https://soundboardio.com/app/hrnicek/?utm_source=github&utm_medium=readme&utm_campaign=hrnicek">
+    <img src="icons/og-v2.jpg" width="640" alt="Kluk s řetízkem">
+  </a>
 </p>
 
-## Creating Sound Board
+# Kluk s řetízkem
 
-1. Create new repository on your Github, based on this repository.
-   - Make sure your repository is **public** and its name starts with `soundboardio-`
-   - Prepare your **sounds** (Github or self-hosted files)
-   - Create your **[`soundboardio.json`](https://github.com/AquaSoup/soundboardio-lakatos/blob/master/soundboardio.json) manifest**. Be creative. Choose name, description, colors and tiles, ...
-   - Prepare **icons** (you will need at least two icons if you want your app to be installable). [See this example](https://github.com/AquaSoup/soundboardio-lakatos/blob/master/soundboardio.json#L13)
-2. Now you can just open your shiny new app with your own url. It's working automagically.
+> Plugin for [SoundBoardio.com](https://soundboardio.com), a free GitHub-powered soundboard app.
 
-## Donation ❤️
+67 Czech sound quotes, playable in the browser and installable on your phone as an app.
 
-This project and platform [SoundBoardio.com](soundboardio.com) is completely free and we're making it with love :)
+**▶ [Open the soundboard](https://soundboardio.com/app/hrnicek/?utm_source=github&utm_medium=readme&utm_campaign=hrnicek)**
 
-If you want to help us, please consider [making a donation](https://github.com/sponsors/bartholomej) for some 🍺 or 🍵 ;)
+> Úryvek z pořadu "Ano šéfe!" na TV Prima, kde Zdeněk Pohlreich vyšetřuje případ ztraceného řetízku.
+
+Board by [Sám Život](https://www.youtube.com/watch?v=0MrRMa2MHx8).
+
+## Missing a quote?
+
+- [Suggest it](https://github.com/soundboardio/soundboardio-hrnicek/issues/new?title=Quote%20suggestion&body=Quote%3A%0AWhere%20it%E2%80%99s%20from%20%28link%2C%20time%29%3A%0A) and say what it is and where it comes from (link, time).
+- Or send a pull request: drop the mp3 into `sounds/` and add a tile to [`soundboardio.json`](soundboardio.json). A transcript in `lyrics` follows [this format](https://github.com/soundboardio/soundboardio-developers#lyrics-transcript).
+
+## Want your own soundboard?
+
+All it takes is a public GitHub repository and one `soundboardio.json` file. No build, no deploy, free.
+
+Guide, generator and validator: **[soundboardio.com/create](https://soundboardio.com/create/?utm_source=github&utm_medium=readme&utm_campaign=hrnicek)** (in Czech: [soundboardio.com/cs/create](https://soundboardio.com/cs/create/?utm_source=github&utm_medium=readme&utm_campaign=hrnicek)).
 
 ## License
 
-Copyright &copy; 2024 [AquaSoup](http://aquasoup.com)
+The code and the manifest are [MIT licensed](LICENCE). The sounds belong to the authors of the original recording; this board is a fan tribute. Is something rotten? Open an issue or [contact us](https://soundboardio.com/about/).
 
-Proudly powered by nature 🗻, wind 💨, tea 🍵 and beer 🍺 ;)
-
-All contents are licensed under the [MIT license].
-
-[mit license]: LICENSE
+SoundBoardio is made by [AquaSoup](https://aquasoup.com) and is free. If it made you smile, [buy us a coffee](https://soundboardio.com/donate/?utm_source=github&utm_medium=readme&utm_campaign=hrnicek) ☕
